@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class homework2 {
+public class w2question2 {
     public static void main(String[] args) {
         var month = new HashMap<>();
         System.out.println("請輸入1~12");
