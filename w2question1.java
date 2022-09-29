@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class homework1 {
+public class w2question1 {
     public static void main(String[] args) {
         var num = new TreeSet<>();
         var num1 = new TreeSet<>();
